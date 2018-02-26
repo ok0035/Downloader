@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Project\\Android Studio\\Downloader\\downloader_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "D:\\Project\\Android Studio\\Downloader\\downloader_library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Project\\Android Studio\\Downloader\\downloader_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "D:\\Project\\Android Studio\\Downloader\\downloader_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Project\\Android Studio\\Downloader\\downloader_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_status_bar_ongoing_event_progress_bar.xml.flat",
+        "source": "D:\\Project\\Android Studio\\Downloader\\downloader_library\\build\\intermediates\\bundles\\debug\\res\\layout\\status_bar_ongoing_event_progress_bar.xml"
+    }
+]
